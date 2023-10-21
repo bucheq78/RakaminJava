@@ -10,7 +10,7 @@ public class Fungsi_2 {
         Namaku.bucheq("Bucheq");
         Namaku.bucheq("Syifa");
         Namaku.bucheq("Nira");
-
+        Namaku.bucheq("Bubu Contoh Git");
 
 
         tambah(x,y);
