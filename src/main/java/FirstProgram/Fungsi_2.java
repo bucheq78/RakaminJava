@@ -7,7 +7,7 @@ public class Fungsi_2 {
         int z = 18;
 
 
-        Namaku.bucheq("Bucheq");
+        Namaku.bucheq("Bucheq Contog GIT");
         Namaku.bucheq("Syifa");
         Namaku.bucheq("Nira");
         Namaku.bucheq("Bubu Contoh Git");
